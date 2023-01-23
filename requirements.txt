@@ -1,1 +1,4 @@
 numpy==1.14.5
+import numpy
+print(numpy.__version__)
+numpy.random.randn()
